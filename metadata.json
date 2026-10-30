@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise OS (Sentinel & Synthetics)",
+  "description": "Executive operations and intelligence platform featuring multi-year Sales forecasting, Cybersecurity threat modeling, HR payroll management, and strict Role-Based Access Control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
